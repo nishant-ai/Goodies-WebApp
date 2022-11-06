@@ -1,4 +1,6 @@
-![goodie-removebg-preview](https://user-images.githubusercontent.com/86194637/200156468-e3b0b9ed-c0a1-49c0-ab80-c8355a5a1a7f.png)
+<img src="https://user-images.githubusercontent.com/86194637/200156468-e3b0b9ed-c0a1-49c0-ab80-c8355a5a1a7f.png" alt="logo" width="200" height="200">
+
+<!--[goodie-removebg-preview](https://user-images.githubusercontent.com/86194637/200156468-e3b0b9ed-c0a1-49c0-ab80-c8355a5a1a7f.png )-->
 # Goodies WebApp 🎁🎁
 
 ### A gift recommendation system using personality prediction.
