@@ -4,13 +4,19 @@ import "./Navbar.css";
 // Images
 import MenuIcon from "../../assets/NavIcon.svg";
 import CloseIcon from "@mui/icons-material/Close";
+import Logo from "../../assets/goodie.png";
 
 function Navbar() {
   const [navMenu, setNavMenu] = useState(false);
 
   return (
     <div className="Navbar">
-      <div className="NavLeft">ZERO</div>
+      <div
+        style={{
+          backgroundImage: `url(${Logo})`,
+        }}
+        className="Logo"
+      ></div>
       <div className="NavRight">
         <img
           onClick={() => setNavMenu(true)}

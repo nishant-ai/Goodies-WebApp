@@ -3,6 +3,7 @@
   grid-template-columns: auto auto auto;
   justify-content: center;
   width: 100vw;
+  margin: 0 0 5vh 0;
 }
 
 .ProductHeading {
@@ -12,12 +13,13 @@
   justify-content: center;
   align-items: center;
   font-size: 6vh;
-  margin: 5vh 0 2vh 0;
+  margin: 10vh 0 5vh 0;
   padding-bottom: 2vh;
 }
 
 .Product {
   border: 1px solid #e6e6e6;
+  cursor: pointer;
   border-radius: 20px;
   margin: 3vh;
   width: 30vw;
@@ -43,8 +45,8 @@
   border-radius: 20px;
   flex: 0.8;
   background-position: center;
-  background-size: contain;
   background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .ProductName {

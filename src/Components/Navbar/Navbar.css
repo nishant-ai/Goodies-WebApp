@@ -6,8 +6,12 @@
   justify-content: space-between;
 }
 
-.NavLeft {
+.Logo {
   margin: 0 3vw;
+  width: 10vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #fff;
   display: flex;
   justify-content: center;
