@@ -20,25 +20,25 @@ function Team() {
       <main>
         <div className="profile">
           <figure data-value="Frontend Developer">
-            <img src="https://rvs-team-page.onrender.com/photo1.png" alt="" />
+            <img src={require("../../assets/nishant.jpeg")} alt="" />
             <figcaption>Nishant Sharma</figcaption>
           </figure>
         </div>
         <div className="profile">
           <figure data-value="Frontend Developer">
-            <img src="https://rvs-team-page.onrender.com/photo2.png" alt="" />
+            <img src={require("../../assets/Pranshu.jpg")} alt="" />
             <figcaption>Pranshu Singh</figcaption>
           </figure>
         </div>
         <div className="profile">
           <figure data-value="Frontend Developer">
-            <img src="https://rvs-team-page.onrender.com/photo3.png" alt="" />
+            <img src={require("../../assets/Samridhi.jpg")} alt="" />
             <figcaption>Samridhhi Yadav</figcaption>
           </figure>
         </div>
         <div className="profile">
           <figure data-value="Frontend Developer">
-            <img src="https://rvs-team-page.onrender.com/photo4.png" alt="" />
+            <img src={require("../../assets/Dhruv.jpg")} alt="" />
             <figcaption>Dhruv Varshney</figcaption>
           </figure>
         </div>
