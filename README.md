@@ -20,6 +20,9 @@
 This is a gift recommendation WebApp which focuses on to ease out the process of gifting a person.This can provide information that helps the user in the decision making of which items to choose, which can be, for example, books, music, movies, products, as well as recommendation systems can, based on a user's profile, suggest Items to the user directly with- out the intermediation of the same.It is a free online gifting quiz that helps you find personalized gift recommendations in just seconds. Answer few quick questions about the person you’re shopping for, and we’ll give you our best picks from a curated gift database.
 
 ### Screenshot
+<img width="500" alt="Frontend" src="https://user-images.githubusercontent.com/86194637/200156997-c54dee6b-65e2-46bc-845e-a0106b23d3ff.png">
+<img width="500" alt="to_self" src="https://user-images.githubusercontent.com/86194637/200157066-6a104484-a9fc-4264-95fb-2e0b620b1970.png">
+<img width="500" alt="product" src="https://user-images.githubusercontent.com/86194637/200157116-3470f4ff-8a28-439f-a0c2-19f7869324e1.png">
 
 
 
