@@ -1,0 +1,37 @@
+.Head {
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #4b5061ea;
+}
+
+.Slider {
+  position: absolute;
+  background: #d1d3d8;
+  border-right: 2px solid #fff;
+  border-left: 2px solid #fff;
+  height: 90vh;
+  width: 50vw;
+  transition: 0.4s ease-in-out all;
+}
+
+.HeadSection {
+  z-index: 0;
+  cursor: pointer;
+}
+
+.BuyNow {
+  cursor: pointer;
+  font-family: "Pacifico", cursive;
+  border-radius: 50px 0 50px 0;
+  background: #fff;
+  padding: 3vh 7vw;
+  font-size: 27px;
+  color: Black;
+  position: absolute;
+  bottom: 10%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  transition: 0.2s ease-in-out all;
+}

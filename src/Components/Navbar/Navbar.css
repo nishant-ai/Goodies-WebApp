@@ -1,0 +1,64 @@
+.Navbar {
+  background: #000;
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.NavLeft {
+  margin: 0 3vw;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.NavRight {
+  margin: 0 3vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.NavRightIcon {
+  height: 2.5vh;
+}
+
+.NavMenu {
+  z-index: 20;
+  background: #fff;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  width: 20vw;
+  padding: 5vh 10px 0 10px;
+  transition: 0.2s ease-in-out;
+}
+
+.NavMenuItem {
+  cursor: pointer;
+  font-size: 24px;
+  font-weight: lighter;
+  padding: 10px 20px;
+  border-bottom: 1px solid #00000014;
+  margin: 10px;
+}
+
+.NavMenuItem:hover {
+  font-weight: light;
+  background: #f6f6f6;
+  border-radius: 10px 10px 0 0;
+  transition: 0.1s ease-in-out;
+}
+
+.NavMenuClose {
+  cursor: pointer;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 1vw;
+}
