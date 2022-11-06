@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+![goodie-removebg-preview](https://user-images.githubusercontent.com/86194637/200156468-e3b0b9ed-c0a1-49c0-ab80-c8355a5a1a7f.png)
+# Goodies WebApp 🎁🎁
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### A gift recommendation system using personality prediction.
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Overview
+### What is Goodie ?
+This is a gift recommendation WebApp which focuses on to ease out the process of gifting a person.This can provide information that helps the user in the decision making of which items to choose, which can be, for example, books, music, movies, products, as well as recommendation systems can, based on a user's profile, suggest Items to the user directly with- out the intermediation of the same.It is a free online gifting quiz that helps you find personalized gift recommendations in just seconds. Answer few quick questions about the person you’re shopping for, and we’ll give you our best picks from a curated gift database.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Screenshot
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## My process
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built with
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- MERN Stack
+- Python
+- JavaScript
+- Figma
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Useful resources
 
-### `npm run eject`
+- w3schools(https://www.w3schools.com/w3css/defaulT.asp)
+- MDN Web Docs(https://developer.mozilla.org/en-US/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Team Members
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Nishant Sharma](https://github.com/nishant-ai)
+- [Dhruv Varshney](https://github.com/Dhruv-IGI/Dhruv-IGI)
+- [Pranshu Singh](https://github.com/eThird/eThird)
+- [Samridhi Yadav](https://github.com/ysamridhi)
