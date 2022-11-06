@@ -6,7 +6,7 @@ import { ProductsData } from "../../Data/Products";
 
 function Products() {
   return (
-    <>
+    <div id="products">
       <div className="ProductHeading">Products</div>
       <div className="Products">
         {ProductsData.map((product, index) => (
@@ -29,7 +29,7 @@ function Products() {
           </div>
         ))}
       </div>
-    </>
+    </div>
   );
 }
 

@@ -51,7 +51,18 @@ function Navbar() {
             About
           </Link>
         </div>
-        <div className="NavMenuItem">Products</div>
+        <div className="NavMenuItem">
+          <HashLink
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={500}
+            to="products"
+            onClick={() => setNavMenu(false)}
+          >
+            Products
+          </HashLink>
+        </div>
         <div className="NavMenuItem">Login</div>
         <div className="NavMenuItem">Signup</div>
       </div>

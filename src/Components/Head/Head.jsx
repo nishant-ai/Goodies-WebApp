@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import "./Head.css";
 
+// SmoothScroll
+import { Link as HashLink } from "react-scroll";
+
 // Images
 import BuySelf from "../../assets/SelfPurchase.png";
 import BuyGift from "../../assets/GiftPurchase.png";
@@ -46,7 +49,19 @@ function Head() {
         }}
         className="BuyNow"
       >
-        {pos === "L" ? <>To Self</> : <>To Gift</>}
+        {pos === "L" ? (
+          <HashLink
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={500}
+            to="products"
+          >
+            To Self
+          </HashLink>
+        ) : (
+          <>To Gift</>
+        )}
       </div>
     </>
   );
